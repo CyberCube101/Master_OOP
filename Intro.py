@@ -1,6 +1,7 @@
 import statistics
 
 
+
 class NumberList(list):
     def __init__(self, *numbers):
         for number in numbers:
